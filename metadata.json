@@ -1,0 +1,7 @@
+{
+  "name": "Turing-Translator",
+  "description": "A real-time translation chatbot powered by OpenAI. It supports both text and voice input, automatically detects the input language, and translates it to your desired language, with spoken responses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
